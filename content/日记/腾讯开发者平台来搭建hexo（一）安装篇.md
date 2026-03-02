@@ -1,7 +1,7 @@
 ---
 title: 腾讯开发者平台来搭建hexo（一）安装篇
-date: 2018-10-28 14:50:31
-tags:
+created: 2018-10-28 14:50:31
+tags: [日记]
 thumbnail:
 layout:
 ---

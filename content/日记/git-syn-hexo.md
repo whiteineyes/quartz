@@ -1,7 +1,7 @@
 ---
 title: 用git方式在不同电脑同步Hexo
-date: 2017-10-03 15:29:19
-tags: [git,hexo]
+created: 2017-10-03 15:29:19
+tags: [教程]
 thumbnail: http://whiteeyes.qiniudn.com/typing.gif
 ---
 

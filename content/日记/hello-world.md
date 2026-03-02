@@ -1,7 +1,7 @@
 ---
 title: 从ghost换到hexo了
-date: 2016-9-2 08:55:29
-tags: [hexo]
+created: 2016-9-2 08:55:29
+tags: [日记]
 thumbnail: http://whiteeyes.qiniudn.com/hexo.jpg
 ---
 

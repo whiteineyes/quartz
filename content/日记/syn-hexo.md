@@ -1,7 +1,7 @@
 ---
 title: 用网盘方式在不同电脑同步Hexo
-date: 2016-11-24 13:54:48
-tags: [hexo]
+created: 2016-11-24 13:54:48
+tags: [教程]
 thumbnail: http://whiteeyes.qiniudn.com/yunfuwu.jpg
 ---
 
