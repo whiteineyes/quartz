@@ -1,6 +1,6 @@
 ---
 title: Hexo博客安装教程 
-created: 2016-11-23 15:17:43
+created: 2016-11-23T15:17:4
 tags: [教程]
 thumbnail: http://whiteeyes.qiniudn.com/git+hexo.png
 ---
